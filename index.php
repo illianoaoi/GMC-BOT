@@ -1,4 +1,4 @@
 <?
-	echo "Hello.ว
+	echo "Hello";
 ?>
 	
