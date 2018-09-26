@@ -1,4 +1,4 @@
-<?
-	echo "Hello";
+<?php
+echo "Hello LINE bot World!";
 ?>
 	
